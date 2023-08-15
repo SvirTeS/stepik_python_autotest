@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 
 try:
-    link = "http://suninjuly.github.io/registration2.html"
+    link = "http://suninjuly.github.io/registration1.html"
     browser = webdriver.Chrome()
     browser.get(link)
     input1 = browser.find_element_by_css_selector(".first_block > .first_class > input.first")
@@ -11,7 +11,6 @@ try:
     input2.send_keys("Sviridov")
     input3 = browser.find_element_by_css_selector(".first_block > .third_class > input.third")
     input3.send_keys("mail@mail.ru")
-    # Ваш код, который заполняет обязательные поля
     ...
 
     # Отправляем заполненную форму
