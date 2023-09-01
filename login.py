@@ -1,1 +1,2 @@
-login.py
+email = ''
+password = ''
