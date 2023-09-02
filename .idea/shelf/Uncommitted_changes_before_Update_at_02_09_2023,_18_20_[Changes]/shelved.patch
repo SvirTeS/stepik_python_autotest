@@ -1,0 +1,137 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a349a715-7bd2-45a1-ae92-63b84a44aeb9\" name=\"Changes\" comment=\"tests\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Blank Requirements File\" />\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"ci\" />\n        <entry key=\"$PROJECT_DIR$/stepik_python_autotest\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"ROOT_SYNC\" value=\"DONT_SYNC\" />\n  </component>\n  <component name=\"GithubDefaultAccount\">\n    <option name=\"defaultAccountId\" value=\"6a8d170d-43c8-4a4f-83c3-e9d760046f6e\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"22liyIEo30Hg5BCMyFZ4foucSG3\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n      <recent name=\"$PROJECT_DIR$/tests\" />\n      <recent name=\"$PROJECT_DIR$/../stepik_python_autotest\\tests\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/tests\" />\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Python.lesson 2_4_7\">\n    <configuration name=\"lesson 1_6_11\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"stepik_python_autotest\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/PyCharm\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/tests/lesson 1_6_11.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"lesson 2_1_5\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"stepik_python_autotest\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/tests/lesson 2_1_5.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"lesson 2_2_6\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"stepik_python_autotest\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/tests/lesson 2_2_6.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"lesson 2_4_7\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"stepik_python_autotest\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/tests/lesson 2_4_7.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"stepik_python_autotest\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/PyCharm\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.main\" />\n        <item itemvalue=\"Python.lesson 2_4_7\" />\n        <item itemvalue=\"Python.lesson 2_2_6\" />\n        <item itemvalue=\"Python.lesson 2_1_5\" />\n        <item itemvalue=\"Python.lesson 1_6_11\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a349a715-7bd2-45a1-ae92-63b84a44aeb9\" name=\"Changes\" comment=\"\" />\n      <created>1640418829610</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1640418829610</updated>\n      <workItem from=\"1645662830954\" duration=\"574000\" />\n      <workItem from=\"1645664389925\" duration=\"1779000\" />\n      <workItem from=\"1645668397219\" duration=\"835000\" />\n      <workItem from=\"1657542871133\" duration=\"3714000\" />\n      <workItem from=\"1657547719723\" duration=\"31000\" />\n      <workItem from=\"1657571019965\" duration=\"14000\" />\n      <workItem from=\"1657571036385\" duration=\"2000\" />\n      <workItem from=\"1657571275954\" duration=\"1714000\" />\n      <workItem from=\"1657573099790\" duration=\"16000\" />\n      <workItem from=\"1657573278642\" duration=\"14000\" />\n      <workItem from=\"1657574048264\" duration=\"130000\" />\n      <workItem from=\"1657574181345\" duration=\"379000\" />\n      <workItem from=\"1657652619395\" duration=\"3953000\" />\n      <workItem from=\"1658349288140\" duration=\"613000\" />\n      <workItem from=\"1659573822869\" duration=\"7483000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"tests\">\n      <created>1659582016427</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659582016427</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"80ea8056-d00d-4bf3-a237-30601299f3f2\">\n          <value>\n            <State>\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"HEAD\" />\n                      </list>\n                    </value>\n                  </entry>\n                  <entry key=\"roots\">\n                    <value>\n                      <list>\n                        <option value=\"$PROJECT_DIR$\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"tets\" />\n    <MESSAGE value=\"tests\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"tests\" />\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/stepik_python_autotest$lesson6_step11.coverage\" NAME=\"lesson6_step11 Coverage Results\" MODIFIED=\"1657545263028\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/PyCharm\" />\n    <SUITE FILE_PATH=\"coverage/stepik_python_autotest$lesson6_step5.coverage\" NAME=\"lesson6_step5 Coverage Results\" MODIFIED=\"1645669220008\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/PyCharm\" />\n    <SUITE FILE_PATH=\"coverage/stepik_python_autotest$lesson_2_2_6.coverage\" NAME=\"lesson 2_2_6 Coverage Results\" MODIFIED=\"1659575097409\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/tests\" />\n    <SUITE FILE_PATH=\"coverage/stepik_python_autotest$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1659577317313\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/PyCharm\" />\n    <SUITE FILE_PATH=\"coverage/stepik_python_autotest$lesson_2_4_7.coverage\" NAME=\"lesson 2_4_7 Coverage Results\" MODIFIED=\"1659580910498\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/tests\" />\n    <SUITE FILE_PATH=\"coverage/stepik_python_autotest$lesson6_step4.coverage\" NAME=\"lesson6_step4 Coverage Results\" MODIFIED=\"1645664588997\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/PyCharm\" />\n    <SUITE FILE_PATH=\"coverage/stepik_python_autotest$lesson_2_1_5.coverage\" NAME=\"lesson 2_1_5 Coverage Results\" MODIFIED=\"1657572467877\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/tests\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0274b49d4f71556707941c49b3654bb172d97c67)
++++ b/.idea/workspace.xml	(date 1693664410354)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="a349a715-7bd2-45a1-ae92-63b84a44aeb9" name="Changes" comment="tests">
++      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+@@ -22,7 +23,7 @@
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+         <entry key="$PROJECT_DIR$" value="ci" />
+-        <entry key="$PROJECT_DIR$/stepik_python_autotest" value="main" />
++        <entry key="$PROJECT_DIR$/stepik_python_autotest" value="af3e4ce32dd3de299a462d0dd45ab828466748fe" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -47,7 +48,7 @@
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
++    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+@@ -56,8 +57,8 @@
+       <recent name="$PROJECT_DIR$/../stepik_python_autotest\tests" />
+     </key>
+     <key name="MoveFile.RECENT_KEYS">
+-      <recent name="$PROJECT_DIR$/tests" />
+       <recent name="$PROJECT_DIR$" />
++      <recent name="$PROJECT_DIR$/tests" />
+     </key>
+   </component>
+   <component name="RunManager" selected="Python.lesson 2_4_7">
+@@ -173,8 +174,8 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.main" />
+         <item itemvalue="Python.lesson 2_4_7" />
++        <item itemvalue="Python.main" />
+         <item itemvalue="Python.lesson 2_2_6" />
+         <item itemvalue="Python.lesson 2_1_5" />
+         <item itemvalue="Python.lesson 1_6_11" />
+@@ -203,7 +204,11 @@
+       <workItem from="1657574181345" duration="379000" />
+       <workItem from="1657652619395" duration="3953000" />
+       <workItem from="1658349288140" duration="613000" />
+-      <workItem from="1659573822869" duration="7483000" />
++      <workItem from="1659573822869" duration="8217000" />
++      <workItem from="1660565387769" duration="1835000" />
++      <workItem from="1662857347368" duration="157000" />
++      <workItem from="1662994885450" duration="7000" />
++      <workItem from="1662994897694" duration="3000" />
+     </task>
+     <task id="LOCAL-00001" summary="tests">
+       <created>1659582016427</created>
+@@ -212,7 +217,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1659582016427</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="tests">
++      <created>1659582590697</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1659582590697</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -255,17 +267,11 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <ignored-roots>
++      <path value="$PROJECT_DIR$/stepik_python_autotest" />
++    </ignored-roots>
+     <MESSAGE value="tets" />
+     <MESSAGE value="tests" />
+     <option name="LAST_COMMIT_MESSAGE" value="tests" />
+   </component>
+-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/stepik_python_autotest$lesson6_step11.coverage" NAME="lesson6_step11 Coverage Results" MODIFIED="1657545263028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyCharm" />
+-    <SUITE FILE_PATH="coverage/stepik_python_autotest$lesson6_step5.coverage" NAME="lesson6_step5 Coverage Results" MODIFIED="1645669220008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyCharm" />
+-    <SUITE FILE_PATH="coverage/stepik_python_autotest$lesson_2_2_6.coverage" NAME="lesson 2_2_6 Coverage Results" MODIFIED="1659575097409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+-    <SUITE FILE_PATH="coverage/stepik_python_autotest$main.coverage" NAME="main Coverage Results" MODIFIED="1659577317313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyCharm" />
+-    <SUITE FILE_PATH="coverage/stepik_python_autotest$lesson_2_4_7.coverage" NAME="lesson 2_4_7 Coverage Results" MODIFIED="1659580910498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+-    <SUITE FILE_PATH="coverage/stepik_python_autotest$lesson6_step4.coverage" NAME="lesson6_step4 Coverage Results" MODIFIED="1645664588997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyCharm" />
+-    <SUITE FILE_PATH="coverage/stepik_python_autotest$lesson_2_1_5.coverage" NAME="lesson 2_1_5 Coverage Results" MODIFIED="1657572467877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+-  </component>
+ </project>
+\ No newline at end of file
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+new file mode 100644
+--- /dev/null	(date 1659582140323)
++++ b/README.md	(date 1659582140323)
+@@ -0,0 +1,2 @@
++# stepik_python_autotest
++learning
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"VcsDirectoryMappings\">\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\n    <mapping directory=\"$PROJECT_DIR$/stepik_python_autotest\" vcs=\"Git\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 0274b49d4f71556707941c49b3654bb172d97c67)
++++ b/.idea/vcs.xml	(date 1662857389708)
+@@ -2,6 +2,5 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/stepik_python_autotest" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
