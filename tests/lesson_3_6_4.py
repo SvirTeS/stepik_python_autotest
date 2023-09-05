@@ -4,7 +4,7 @@ import login
 from selenium.webdriver.common.by import By
 
 
-class TestStepik():
+class TestStepik:
     def test_login_stepik(self, browser):
         browser.get('https://stepik.org/lesson/236895/step/1')
         browser.implicitly_wait(15)
